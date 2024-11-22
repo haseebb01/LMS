@@ -1,0 +1,2 @@
+This project showcases the User Interface (UI) design for a Labour Management System, created using the Balsamiq tool. The design focuses on providing an intuitive and user-friendly interface to streamline tasks such as managing labor records, tracking attendance, assigning work schedules, and monitoring progress. The UI emphasizes simplicity and clarity, ensuring efficient navigation and usability for end-users. This repository includes design mockups, layouts, and detailed annotations to guide the development process.
+
